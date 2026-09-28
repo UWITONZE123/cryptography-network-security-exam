@@ -5,7 +5,7 @@ ETTCS801 – Cryptography and Network Security · ULK Polytechnic Institute · I
 A small security toolkit for a polytechnic's student-records scenario:
 risk assessment, an AES-256-GCM + SHA-256 Python tool, laboratory firewall rules, and a LaTeX report.
 
-> **Author:** `<ERIC UWITONZE + 4202670055>`  ·  **Repository:** `<YOUR GITHUB URL>`
+> **Author:** `<ERIC UWITONZE + 4202670055>`  ·  **Repository:** `<https://github.com/UWITONZE123/cryptography-network-security-exam/tree/main >`
 
 ## Project structure
 
