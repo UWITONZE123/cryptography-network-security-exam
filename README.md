@@ -34,7 +34,7 @@ cryptography-network-security-exam/
 Requires Python 3.9+.
 
 ```bash
-git clone <YOUR GITHUB URL>
+git clone <https://github.com/UWITONZE123/cryptography-network-security-exam/tree/main >
 cd cryptography-network-security-exam
 python3 -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
